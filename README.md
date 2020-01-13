@@ -28,6 +28,10 @@ All used resources are located in the [material folder](https://github.com/Geobu
 |   roads  | Road nodes from the [OS MasterMap Integrated Transport Network Layer](https://digimap.edina.ac.uk/webhelp/os/data_information/os_products/mastermap_itn.htm) on a 1:1250 scale in a [GML2](https://digimap.edina.ac.uk/webhelp/digimapsupport/about.htm#common_help/data_download/data_formats.htm#GML) format. |
 
 ## Visualisation
-![Alt text](https://media.giphy.com/media/gM0FMOP1ub0CwlMU8E/giphy.gif)
+<p align="center">
+<img src="https://media.giphy.com/media/gM0FMOP1ub0CwlMU8E/giphy.gif" width="500" >
+</p>
  
+<p align="center">  
 <img src="images/EvacuationMap.png" width="500" >
+</p>
