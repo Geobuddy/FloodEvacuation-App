@@ -29,3 +29,4 @@ All used resources are located in the [material folder](https://github.com/Geobu
 
 ## Visualisation
 ![Alt text](https://media.giphy.com/media/gM0FMOP1ub0CwlMU8E/giphy.gif)
+ 
