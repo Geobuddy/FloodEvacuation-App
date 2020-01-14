@@ -30,8 +30,10 @@ All used resources are located in the [material folder](https://github.com/Geobu
 ## Visualisation
 <p align="center">
 <img src="https://media.giphy.com/media/gM0FMOP1ub0CwlMU8E/giphy.gif">
+**Figure 1:** Shows user inserting the location coordinates and a generated output map showing the shortest path to the highest elevation point within a 5KM radius.
 </p>
  
 <p align="center">  
 <img src="images/EvacuationMap.png" width="500" >
+ **Figure 1:** Generated output map showing the shortest path to the highest elevation point within a 5KM radius.
 </p>
